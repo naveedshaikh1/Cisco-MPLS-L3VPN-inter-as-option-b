@@ -1,0 +1,10 @@
+# Local secrets and proprietary router images
+.env
+*.key
+*.pem
+*.qcow2
+*.vmdk
+*.iso
+*.bin
+Thumbs.db
+.DS_Store
